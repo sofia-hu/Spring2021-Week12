@@ -10,12 +10,13 @@ We will first learn transfer learning, a technique used for adapting a pre-train
 - [Other types of DL models, Style Transfer](https://deepart.io)
 - [Other types of DL models, Siamese Net](DL_SiameseNet_MNIST.ipynb)
 - [Generative Adverserial Networks](https://phillipi.github.io/pix2pix/)
+  
   http://slazebni.cs.illinois.edu/spring17/lec11_gan.pdf
 
 - Conclusions on DL
 
 All notebooks are in Colab:
- https://drive.google.com/drive/folders/1br4IZGPH-ybkQvQWVHBIdorbwzqrmFxn?usp=sharing
+ https://drive.google.com/drive/u/4/folders/1xmfpG3KtoZoZwnr7pK4EEvFJfEyeAFoM
  
 As well as the data:
- https://drive.google.com/drive/folders/15dLkXRSt1iFGsBDc2zw_w3QkMhjXE2OE?usp=sharing
+ https://drive.google.com/drive/u/4/folders/10HpS26ZPhUXaJ8FrEMuUD01-aSjoTfC7
