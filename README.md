@@ -1,14 +1,18 @@
 # MUSA 650: Machine Learning in Remote Sensing
 
-## Week11: Deep Learning - Part2
+## Week12: Deep Learning - Part3
 
-We will first complete the CNN example, and review few major components of DL models, with examples. We will learn how to adapt a pre-trained model to a new problem. Finally we will see an example of a sligthly more complex network architecture.
+We will first learn transfer learning, a technique used for adapting a pre-trained model to a new problem. We will then review few specialized architectures, auto-encoders for unsupervised learning, and UNet for image segmentation problems. We will see an example of a sligthly more complex network architecture, Siamese network, and discuss adverserial networks.
 
-- [What does a convolutional layer do?](DL_VisConvFilters.ipynb)
-- [SHIPS segmented using a Convolutional Neural Net (CNN)](DLBasics_SHIPS.ipynb)
+- [How to train a model for small datasets?](DL_TransferLearning.ipynb)
+- [Other types of DL models, Auto-encoders](DL_Autoencoders.ipynb)
+- [Other types of DL models, UNet](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net)
+- [Other types of DL models, Style Transfer](https://deepart.io)
+- [Other types of DL models, Siamese Net](DL_SiameseNet_MNIST.ipynb)
+- [Generative Adverserial Networks](https://phillipi.github.io/pix2pix/)
+  http://slazebni.cs.illinois.edu/spring17/lec11_gan.pdf
 
-- [Using pre-trained models](DLBasics_TransferLearning.ipynb)
-- [An example for a more complex architecture using Keras](DL_Keras_SiameseNet_MNIST.ipynb)
+- Conclusions on DL
 
 All notebooks are in Colab:
  https://drive.google.com/drive/folders/1br4IZGPH-ybkQvQWVHBIdorbwzqrmFxn?usp=sharing
